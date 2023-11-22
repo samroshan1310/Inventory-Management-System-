@@ -1,2 +1,4 @@
 # SQL_practice
-I have queried a couple of questions from the dataset DVDRentals from kaggle
+
+
+I have used a dataset from kaggle called DVDRentals and have queried some prompts, which involve the usage of most of SQL commands.

@@ -1,4 +1,4 @@
-# SQL_practice
+# DVD Rentals Inventory Management System Implementation
 
 
-I have used a dataset from kaggle called DVDRentals and have queried some prompts, which involve the usage of most of SQL commands.
+Designed and implemented queries for a  database for a company named “DVD Rentals”  which rents out movies. Queried complex prompts involving the usage of SQL commands and documented them.
